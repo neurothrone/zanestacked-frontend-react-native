@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { Alert, StyleSheet, Text, View } from "react-native";
+import { Alert, StyleSheet } from "react-native";
 
 import Project from "../models/Project";
 import ProjectList from "../components/project/ProjectList";
